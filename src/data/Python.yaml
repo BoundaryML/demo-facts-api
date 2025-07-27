@@ -1,0 +1,100 @@
+- Python was created by Guido van Rossum in 1991
+- Python is named after Monty Python's Flying Circus
+- Python uses indentation to define code blocks
+- Python supports multiple programming paradigms
+- The Zen of Python contains 19 guiding principles
+- Python's package manager is called pip
+- Python 3 was released in 2008 and is not backward compatible with Python 2
+- Python is an interpreted language
+- The Python Software Foundation manages Python's development
+- Python has dynamic typing and automatic memory management
+- Django and Flask are popular Python web frameworks
+- Python is widely used in data science and machine learning
+- Python's motto is "batteries included"
+- List comprehensions are a distinctive Python feature
+- Python supports duck typing
+- Python Enhancement Proposals (PEPs) guide language development
+- Python uses reference counting for memory management
+- The Global Interpreter Lock (GIL) prevents true multi-threading
+- Python supports operator overloading through magic methods
+- Python 2 reached end of life on January 1, 2020
+- NumPy is the fundamental package for scientific computing
+- Python supports multiple inheritance
+- The walrus operator := was introduced in Python 3.8
+- Python has first-class functions
+- Decorators allow modifying function behavior
+- Python supports generators for memory-efficient iteration
+- The asyncio library enables asynchronous programming
+- Python's standard library contains over 200 modules
+- Type hints were introduced in Python 3.5
+- Python uses snake_case naming convention
+- The __name__ == "__main__" idiom prevents code execution on import
+- Python supports context managers with the 'with' statement
+- F-strings were introduced in Python 3.6 for string formatting
+- Python has built-in support for complex numbers
+- The collections module provides specialized container datatypes
+- Python's itertools module offers efficient looping tools
+- Lambda functions provide anonymous function capabilities
+- Python supports metaclasses for class customization
+- The dis module can disassemble Python bytecode
+- Python's unittest framework is inspired by Java's JUnit
+- Virtualenv allows isolated Python environments
+- Python supports multiple assignment and tuple unpacking
+- The sys.path list determines module import locations
+- Python's descriptor protocol enables computed attributes
+- The functools module provides higher-order functions
+- Python uses LEGB rule for variable scope resolution
+- Dataclasses were introduced in Python 3.7
+- Python's pickle module serializes objects
+- The pathlib module offers object-oriented filesystem paths
+- Python supports coroutines for concurrent programming
+- The typing module provides runtime support for type hints
+- Python's match statement was added in version 3.10
+- The __slots__ attribute can reduce memory usage
+- Python supports property decorators for getters/setters
+- The importlib module provides import implementation
+- Python's abc module enables abstract base classes
+- The enum module was added in Python 3.4
+- Python uses new-style classes since version 2.2
+- The logging module provides flexible event logging
+- Python's argparse module handles command-line arguments
+- The re module provides regular expression operations
+- Python supports multiple numeric types including Decimal
+- The datetime module handles dates and times
+- Python's os module provides operating system interface
+- The subprocess module manages system processes
+- Python uses __init__.py files to define packages
+- The json module handles JSON data
+- Python's sqlite3 module provides SQLite database interface
+- The urllib module handles URL operations
+- Python supports custom exceptions through inheritance
+- The csv module reads and writes CSV files
+- Python's threading module enables multi-threading
+- The queue module provides thread-safe queues
+- Python uses __all__ to control star imports
+- The struct module handles binary data
+- Python's math module provides mathematical functions
+- The random module generates pseudo-random numbers
+- Python supports else clauses on loops
+- The copy module provides shallow and deep copy operations
+- Python's heapq module implements heap queues
+- The bisect module maintains sorted lists
+- Python uses __doc__ strings for documentation
+- The timeit module measures execution time
+- Python's profile module provides performance profiling
+- The venv module creates virtual environments
+- Python supports chained comparisons
+- The contextlib module provides context manager utilities
+- Python's secrets module generates secure random numbers
+- The hashlib module provides secure hash functions
+- Python uses __repr__ and __str__ for object representation
+- The ast module processes abstract syntax trees
+- Python's zipfile module handles ZIP archives
+- The configparser module handles configuration files
+- Python supports ellipsis (...) as a singleton object
+- The array module provides space-efficient arrays
+- Python's email module handles email messages
+- The http module provides HTTP modules
+- Python uses __enter__ and __exit__ for context managers
+- The turtle module provides turtle graphics
+- Python's multiprocessing module enables parallel processing
