@@ -28,6 +28,12 @@ RUN apk add --no-cache libc6-compat
 # Copy the built binary
 COPY --from=builder /app/zig-out/bin/facts-api /usr/local/bin/facts-api
 
+# Copy data files
+COPY --from=builder /app/src/data /app/src/data
+
+# Set working directory to match the path expected by the application
+WORKDIR /app
+
 # Expose port (fly.io uses 8080 by default)
 EXPOSE 8080
 
