@@ -1,0 +1,107 @@
+- Haskell is a purely functional programming language
+- Haskell was named after logician Haskell Curry
+- Haskell was first released in 1990
+- The Haskell logo is a combination of lambda and greater-than/equal signs
+- GHC (Glasgow Haskell Compiler) is the most popular Haskell compiler
+- Haskell uses lazy evaluation by default
+- Every function in Haskell is curried automatically
+- Haskell has no statements, only expressions
+- Type inference in Haskell uses the Hindley-Milner algorithm
+- Monads in Haskell handle side effects in a pure way
+- The IO monad encapsulates input/output operations
+- Haskell's type system is based on System F
+- Pattern matching is a fundamental feature in Haskell
+- Guards provide conditional expressions in function definitions
+- List comprehensions in Haskell are inspired by set notation
+- Haskell supports infinite data structures due to lazy evaluation
+- The Prelude is Haskell's standard library module
+- Functors, Applicatives, and Monads form a hierarchy in Haskell
+- Type classes enable ad-hoc polymorphism
+- The Maybe type handles nullable values safely
+- Either type represents values with two possibilities
+- Haskell uses immutable data structures by default
+- Recursion is the primary looping mechanism in Haskell
+- The $ operator reduces parentheses in function application
+- Function composition uses the . operator
+- Haskell supports algebraic data types
+- GADTs (Generalized Algebraic Data Types) extend type expressiveness
+- Type families enable type-level computation
+- Template Haskell provides compile-time metaprogramming
+- QuickCheck pioneered property-based testing
+- The ST monad allows local mutable state
+- Haskell's foreign function interface connects to C libraries
+- Lens library provides composable getters and setters
+- Parsec is a popular parser combinator library
+- Cabal is Haskell's build system and package manager
+- Stack provides reproducible builds for Haskell projects
+- Hackage hosts thousands of Haskell packages
+- The Haskell Platform bundles GHC with common libraries
+- Literate Haskell allows mixing code with documentation
+- Type signatures are optional but recommended
+- Haskell supports both strict and lazy evaluation strategies
+- The seq function forces evaluation to WHNF
+- BangPatterns extension enables strict evaluation annotations
+- Phantom types add compile-time safety without runtime cost
+- Rank-N types allow higher-ranked polymorphism
+- Existential types hide implementation details
+- Data.Text provides efficient Unicode text handling
+- ByteString offers high-performance binary data
+- The async library simplifies concurrent programming
+- Software Transactional Memory (STM) handles concurrent state
+- Par monad enables deterministic parallelism
+- Arrows generalize computation patterns beyond monads
+- Comonads are the categorical dual of monads
+- Free monads separate syntax from interpretation
+- Pipes library provides composable streaming
+- Conduit offers resource-safe streaming data processing
+- Servant enables type-safe web APIs
+- Yesod is a type-safe web framework
+- Pandoc, written in Haskell, converts between markup formats
+- GHCi is Haskell's interactive REPL
+- Hoogle searches Haskell functions by type signature
+- HLint suggests code improvements
+- Haskell Language Server provides IDE features
+- The bind operator >>= chains monadic computations
+- do-notation provides syntactic sugar for monads
+- List is the default collection type in Haskell
+- Vectors provide O(1) indexed access
+- Sets and Maps use balanced trees internally
+- The Foldable type class abstracts over containers
+- Traversable combines mapping with effects
+- Bifunctor operates on two type parameters
+- Profunctor represents type constructors contravariant in one argument
+- Category theory heavily influences Haskell's design
+- The Curry-Howard correspondence relates types to logic
+- Dependent types are explored in Haskell research
+- Liquid Haskell adds refinement types
+- Accelerate compiles Haskell to GPU code
+- The rewrite rules pragma enables optimization hints
+- Unboxed types reduce memory overhead
+- The INLINE pragma controls function inlining
+- Stream fusion optimizes list operations
+- Haskell's runtime system manages garbage collection
+- Green threads enable lightweight concurrency
+- The RTS (Runtime System) can be tuned via flags
+- Space leaks are a common performance pitfall
+- Strictness analysis optimizes lazy evaluation
+- Core is GHC's intermediate language
+- System.F Core extends System F with datatypes
+- The simplifier performs Core-to-Core optimizations
+- LLVM backend generates optimized machine code
+- Native code generator produces assembly directly
+- Cmm (C minus minus) is GHC's low-level intermediate language
+- The GHC API enables programmatic compiler access
+- Backpack provides module-level mixins
+- The plugin system extends GHC functionality
+- Source plugins modify the compilation pipeline
+- Type checker plugins customize type checking
+- Haskell influenced many modern languages
+- Elm brings Haskell ideas to frontend development
+- PureScript is a strict Haskell-like language for JavaScript
+- Idris explores dependent types with Haskell syntax
+- Agda is a dependently typed language and proof assistant
+- Haskell research continues at universities worldwide
+- The Haskell Foundation supports community development
+- Annual Haskell Symposium presents latest research
+- ICFP (International Conference on Functional Programming) features Haskell prominently
+- Haskell remains influential in programming language research and design
